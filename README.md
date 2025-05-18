@@ -2,6 +2,7 @@
 
 
 - 📫 Como entrar em contato comigo: Envia mensagem para meu <a href="https://api.whatsapp.com/send/?phone=5521980853345&text&type=phone_number&app_absent=0" target="_blank">WhatsApp.</a>
+<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>
 <!--
 **FSGRJ/fsgrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
