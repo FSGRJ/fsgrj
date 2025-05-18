@@ -7,7 +7,7 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 
 - 📫 Como entrar em contato comigo:
 - Envia mensagem para meu <a href="https://api.whatsapp.com/send/?phone=5521980853345&text&type=phone_number&app_absent=0" target="_blank">WhatsApp.</a>
-- E-mail<a href="fabgoncalves@gmai.com" target="_blank">Contato.</a>
+- E-mail<a href="fabgoncalves@gmail.com" target="_blank">Contato.</a>
 
 <!--
 **FSGRJ/fsgrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
