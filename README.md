@@ -1,14 +1,22 @@
 ## Olá! 👋 Eu sou Fabiano Gonçalves
 
 🧐  PERFIL PROFISSIONAL
+Sou um Analista de Sistemas 👨🏻‍💻 ☁️
 
-Analista de Sistemas com mais de dez anos de experiência na criação e implementação de soluções informatizadas para instituições financeiras e corporativos de grande porte, atuando em projetos de melhoria de processos, integração entre sistemas e implantação de pipelines de entrega com foco em eficiência, redução de falhas e segurança dos dados.
+Com mais de dez anos de experiência na criação e implementação de soluções informatizadas para instituições financeiras e corporativos de grande porte, atuando em projetos de melhoria de processos, integração entre sistemas e implantação de pipelines de entrega com foco em eficiência, redução de falhas e segurança dos dados.
 Profissional eficiente e com boas habilidades de relacionamento interpessoal, que contribui para a prestação de um serviço de excelência e para o suporte à equipe em tarefas diversas, visando colaborar efetivamente com a rotina de trabalho.
+
+🌱 Estou expandindo meu conhecimento em Cloud e DevOps.
+🤝🏻 Estou procurando colaborar com outros criadores de conteúdo e desenvolvedores.
+🥅 Metas para 2025: Contribuir para projetos de código aberto e aprender novas tecnologias.
+👐🏻 Estou procurando oportunidades ilimitadas de aprendizado.
+🤝🏻 Sou apaixonada pelo meu trabalho e sempre ansiosa para me conectar com outros especialistas.
+👉🏻 <a href="https://developers.google.com/profile/u/107092255134418473017?hl=pt-br" target="_blank">Perfil de desenvolvedor do Google</a> 👨🏻‍💻
+👉🏻 <a href="https://leetcode.com/u/HPWJrP6sxf/" target="_blank">Perfil LeetCode</a> 👨🏻‍💻
 
 - 📫 Como entrar em contato comigo:
 - Envia mensagem para meu <a href="https://api.whatsapp.com/send/?phone=5521980853345&text&type=phone_number&app_absent=0" target="_blank">WhatsApp.</a>
-- E-mail<a href="fabgoncalves@gmail.com" target="_blank">Contato.</a>
-<a href="mailto:fabgoncalves@gmail.com">Clique aqui para enviar um e-mail</a>
+- Por e-mail <a href="mailto:fabgoncalves@gmail.com">Clique aqui para enviar um e-mail</a>
 
 <!--
 **FSGRJ/fsgrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
