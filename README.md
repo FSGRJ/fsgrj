@@ -7,7 +7,9 @@ Com mais de dez anos de experiência na criação e implementação de soluçõe
 Profissional eficiente e com boas habilidades de relacionamento interpessoal, que contribui para a prestação de um serviço de excelência e para o suporte à equipe em tarefas diversas, visando colaborar efetivamente com a rotina de trabalho.
 
 🌱 Estou expandindo meu conhecimento em Cloud e DevOps.
+
 🤝🏻 Estou procurando colaborar com outros criadores de conteúdo e desenvolvedores.
+
 🥅 Metas para 2025: Contribuir para projetos de código aberto e aprender novas tecnologias.
 👐🏻 Estou procurando oportunidades ilimitadas de aprendizado.
 🤝🏻 Sou apaixonada pelo meu trabalho e sempre ansiosa para me conectar com outros especialistas.
