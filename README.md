@@ -7,12 +7,12 @@ Com mais de dez anos de experiência na criação e implementação de soluçõe
 Profissional eficiente e com boas habilidades de relacionamento interpessoal, que contribui para a prestação de um serviço de excelência e para o suporte à equipe em tarefas diversas, visando colaborar efetivamente com a rotina de trabalho.
 
 🌱 Estou expandindo meu conhecimento em Cloud e DevOps.</br>
-🤝🏻 Estou procurando colaborar com outros criadores de conteúdo e desenvolvedores.
-🥅 Metas para 2025: Contribuir para projetos de código aberto e aprender novas tecnologias.
-👐🏻 Estou procurando oportunidades ilimitadas de aprendizado.
-🤝🏻 Sou apaixonada pelo meu trabalho e sempre ansiosa para me conectar com outros especialistas.
-👉🏻 <a href="https://developers.google.com/profile/u/107092255134418473017?hl=pt-br" target="_blank">Perfil de desenvolvedor do Google</a> 👨🏻‍💻
-👉🏻 <a href="https://leetcode.com/u/HPWJrP6sxf/" target="_blank">Perfil LeetCode</a> 👨🏻‍💻
+🤝🏻 Estou procurando colaborar com outros criadores de conteúdo e desenvolvedores.</br>
+🥅 Metas para 2025: Contribuir para projetos de código aberto e aprender novas tecnologias.</br>
+👐🏻 Estou procurando oportunidades ilimitadas de aprendizado.</br>
+🤝🏻 Sou apaixonada pelo meu trabalho e sempre ansiosa para me conectar com outros especialistas.</br>
+👉🏻 <a href="https://developers.google.com/profile/u/107092255134418473017?hl=pt-br" target="_blank">Perfil de desenvolvedor do Google</a> 👨🏻‍💻</br>
+👉🏻 <a href="https://leetcode.com/u/HPWJrP6sxf/" target="_blank">Perfil LeetCode</a> 👨🏻‍💻</br>
 
 - 📫 Como entrar em contato comigo:
 - Envia mensagem para meu <a href="https://api.whatsapp.com/send/?phone=5521980853345&text&type=phone_number&app_absent=0" target="_blank">WhatsApp.</a>
