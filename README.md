@@ -20,7 +20,7 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 
 
 
-Minhas Certificações 🏅</br>
+**Minhas Certificações** 🏅</br>
 <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/64c1d87b-e3c9-4429-be48-5ab591af7526-fabiano-sampaio-gonalves-73eb61c1-eca6-4eef-a334-c9122b544323-certificate.pdf" target="_blank">The LINUX FOUNDATION: Introduction to DevOps and Site Reliability Engineering (LFS162)</a></br>
 <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/64c1d87b-e3c9-4429-be48-5ab591af7526-fabiano-sampaio-gonalves-f36e1b26-c6ee-4d4b-aa6f-b1e700968326-certificate.pdf" target="_blank">The LINUX FOUNDATION: Introduction to DevSecOps for Managers (LFS180)</a></br>
 <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/64c1d87b-e3c9-4429-be48-5ab591af7526-fabiano-sampaio-gonalves-4d93aa19-49e3-4ff9-8a85-31afa3f6c145-certificate.pdf" target="_blank">The LINUX FOUNDATION: Introduction to GitOps (LFS169)</a></br>
@@ -35,7 +35,7 @@ Minhas Certificações 🏅</br>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=6233DDDFE05279D92D197C90884BF7A773E36AF3E68A922A0FC2E81FEBE9E331" target="_blank">Oracle: Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</a></br>
 
 
-Minhas Conquistas 🏆</br>
+**Minhas Conquistas** 🏆</br>
 **AWS**</br>
 <img src="https://github.com/user-attachments/assets/b09e9ffc-5b85-49b6-9b37-c4997521ca07" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/56ed70df-2c99-4fcc-be21-3a3150eac8b9" width="120" height="120" />
@@ -88,6 +88,10 @@ Minhas Conquistas 🏆</br>
 </br>
 **SCRUMstudy**</br>
 <img src="https://github.com/user-attachments/assets/5e639b2f-c30a-4259-b93a-954e973cbfc6" width="120" height="120" />
+
+
+Meus Curriculos 🏅</br>
+[Fabiano_Goncalves_AnalistaSistemas_CV.pdf](https://github.com/user-attachments/files/20319674/Fabiano_Goncalves_AnalistaSistemas_CV.pdf)
 
 
 <!--
