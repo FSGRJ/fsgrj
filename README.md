@@ -36,11 +36,13 @@ Minhas Certificações 🏅</br>
 
 
 Minhas Conquistas 🏆</br>
+<img src="https://github.com/user-attachments/assets/b09e9ffc-5b85-49b6-9b37-c4997521ca07" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/1f2ef5af-d9e1-4946-8862-592a6a7dd249" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/7247c07a-3dab-41bc-aa01-ea8d54de6c11" width="120" height="120" />
-<img src="https://github.com/user-attachments/assets/1f2ef5af-d9e1-4946-8862-592a6a7dd249" width="120" height="120" />
-<img src="https://github.com/user-attachments/assets/1f2ef5af-d9e1-4946-8862-592a6a7dd249" width="120" height="120" />
-
+<img src="https://github.com/user-attachments/assets/78cd5171-ee78-42ae-aaa0-2a142f721680" width="120" height="120" />
+<img src="https://github.com/user-attachments/assets/c70d36a4-b25a-4b36-8483-ab04a7dcf414" width="120" height="120" />
+<img src="https://github.com/user-attachments/assets/1400f10f-93e1-49a6-a8cf-2a493f8a4da2" width="120" height="120" />
+<img src="https://github.com/user-attachments/assets/12051fe6-ae10-4ec0-9b4d-f2bcfd26ce66" width="120" height="120" />
 <!--
 **FSGRJ/fsgrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
