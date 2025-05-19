@@ -36,7 +36,7 @@ Minhas Certificações 🏅</br>
 
 
 Minhas Conquistas 🏆
-![image](https://github.com/user-attachments/assets/1f2ef5af-d9e1-4946-8862-592a6a7dd249)
+![image](https://github.com/user-attachments/assets/1f2ef5af-d9e1-4946-8862-592a6a7dd249 =50x50)
 
 
 <!--
