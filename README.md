@@ -36,8 +36,7 @@ Minhas Certificações 🏅</br>
 
 
 Minhas Conquistas 🏆
-![image](https://github.com/user-attachments/assets/1f2ef5af-d9e1-4946-8862-592a6a7dd249 =50x50)
-<img src="https://github.com/user-attachments/assets/1f2ef5af-d9e1-4946-8862-592a6a7dd249" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/1f2ef5af-d9e1-4946-8862-592a6a7dd249" width="120" height="120" />
 
 <!--
 **FSGRJ/fsgrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
