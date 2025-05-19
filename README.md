@@ -63,7 +63,6 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 <img src="https://github.com/user-attachments/assets/becab179-b80a-414d-bd90-985bb3ddf797" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/a046d0f8-b03c-4c5f-80e1-555280db9209" width="120" height="120" />
 </br>
-
 **CISCO**</br>
 <img src="https://github.com/user-attachments/assets/675108b5-4fe4-417a-997e-ff0b6ae2753d" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/10828876-7be6-48e8-8381-a5f5a994ad36" width="120" height="120" />
@@ -95,8 +94,11 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 **SCRUMstudy**</br>
 <img src="https://github.com/user-attachments/assets/5e639b2f-c30a-4259-b93a-954e973cbfc6" width="120" height="120" />
 
+<hr />
 
-**Meus Currículos**🏅</br>
+**Meus Currículos**🏅
+<hr />
+
 [Fabiano_Goncalves_AnalistaSistemas_CV.pdf](https://github.com/user-attachments/files/20319674/Fabiano_Goncalves_AnalistaSistemas_CV.pdf)</br>
 [CV_Linkedin_Fabiano_Goncalves_AnalistaSistemas.pdf](https://github.com/user-attachments/files/20319683/CV_Linkedin_Fabiano_Goncalves_AnalistaSistemas.pdf)
 
