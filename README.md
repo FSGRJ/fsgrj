@@ -1,10 +1,6 @@
 ## Olá! 👋 Eu sou Fabiano Gonçalves
-<hr>
-hr{
-  border-color:#aaa;
-  box-sizing:border-box;
-  width:100%;  
-}
+<hr />
+
 🧐 **PERFIL PROFISSIONAL** </br>
 <hr />
 Sou um Analista de Sistemas 👨🏻‍💻 ☁️
