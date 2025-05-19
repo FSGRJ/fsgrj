@@ -37,8 +37,11 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E6313FBF1E1C50C52627327A360F828DFB1CE0D9D4AA8E7D22CEC178F8477239" target="_blank">Oracle: Oracle Cloud Infrastructure 2025 Certified Foundations Associate</a></br>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=6233DDDFE05279D92D197C90884BF7A773E36AF3E68A922A0FC2E81FEBE9E331" target="_blank">Oracle: Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</a></br>
 
+<hr />
 
-**Minhas Conquistas** 🏆</br>
+**Minhas Conquistas** 🏆
+<hr />
+
 **AWS**</br>
 <img src="https://github.com/user-attachments/assets/b09e9ffc-5b85-49b6-9b37-c4997521ca07" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/56ed70df-2c99-4fcc-be21-3a3150eac8b9" width="120" height="120" />
