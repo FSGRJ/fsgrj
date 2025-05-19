@@ -36,7 +36,7 @@ Minhas Certificações 🏅</br>
 
 
 Minhas Conquistas 🏆</br>
-**AWS**
+**AWS**</br>
 <img src="https://github.com/user-attachments/assets/b09e9ffc-5b85-49b6-9b37-c4997521ca07" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/56ed70df-2c99-4fcc-be21-3a3150eac8b9" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/1f2ef5af-d9e1-4946-8862-592a6a7dd249" width="120" height="120" />
@@ -72,8 +72,8 @@ Minhas Conquistas 🏆</br>
 </br>
 <img src="https://github.com/user-attachments/assets/1ee4b0de-3430-4dbc-9e7a-b9021cc5b689" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/508def34-d9c5-4366-bd99-855471fd13d5" width="120" height="120" />
-
-**CERTIPROF**
+</br>
+**CERTIPROF**</br>
 <img src="https://github.com/user-attachments/assets/58172833-1cb5-46c8-bb44-f645029673e0" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/fbea5ad0-be5f-46f3-8cce-4794a27a3bd9" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/8e593707-1282-42d9-914c-20f1549b5713" width="120" height="120" />
