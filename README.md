@@ -2,7 +2,7 @@
 <hr>
 
 🧐 **PERFIL PROFISSIONAL** </br>
-<hr>
+<hr />
 Sou um Analista de Sistemas 👨🏻‍💻 ☁️
 
 Com mais de dez anos de experiência na criação e implementação de soluções informatizadas para instituições financeiras e corporativos de grande porte, atuando em projetos de melhoria de processos, integração entre sistemas e implantação de pipelines de entrega com foco em eficiência, redução de falhas e segurança dos dados.
