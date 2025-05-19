@@ -19,7 +19,7 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 - Por e-mail <a href="mailto:fabgoncalves@gmail.com">Clique aqui para enviar um e-mail</a>
 
 
-
+<hr />
 **Minhas Certificações** 🏅<hr />
 
 <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/64c1d87b-e3c9-4429-be48-5ab591af7526-fabiano-sampaio-gonalves-73eb61c1-eca6-4eef-a334-c9122b544323-certificate.pdf" target="_blank">The LINUX FOUNDATION: Introduction to DevOps and Site Reliability Engineering (LFS162)</a></br>
