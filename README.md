@@ -37,7 +37,12 @@ Minhas Certificações 🏅</br>
 
 Minhas Conquistas 🏆
 ![image](https://github.com/user-attachments/assets/1f2ef5af-d9e1-4946-8862-592a6a7dd249 =50x50)
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
+
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250
 
 <!--
 **FSGRJ/fsgrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
