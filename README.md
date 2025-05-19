@@ -90,8 +90,9 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 <img src="https://github.com/user-attachments/assets/5e639b2f-c30a-4259-b93a-954e973cbfc6" width="120" height="120" />
 
 
-Meus Curriculos 🏅</br>
-[Fabiano_Goncalves_AnalistaSistemas_CV.pdf](https://github.com/user-attachments/files/20319674/Fabiano_Goncalves_AnalistaSistemas_CV.pdf)
+**Meus Currículos**🏅</br>
+[Fabiano_Goncalves_AnalistaSistemas_CV.pdf](https://github.com/user-attachments/files/20319674/Fabiano_Goncalves_AnalistaSistemas_CV.pdf)</br>
+[CV_Linkedin_Fabiano_Goncalves_AnalistaSistemas.pdf](https://github.com/user-attachments/files/20319683/CV_Linkedin_Fabiano_Goncalves_AnalistaSistemas.pdf)
 
 
 <!--
