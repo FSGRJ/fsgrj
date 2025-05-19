@@ -1,6 +1,6 @@
 ## Olá! 👋 Eu sou Fabiano Gonçalves
 
-🧐 ** PERFIL PROFISSIONAL** </br>
+🧐 **PERFIL PROFISSIONAL** </br>
 Sou um Analista de Sistemas 👨🏻‍💻 ☁️
 
 Com mais de dez anos de experiência na criação e implementação de soluções informatizadas para instituições financeiras e corporativos de grande porte, atuando em projetos de melhoria de processos, integração entre sistemas e implantação de pipelines de entrega com foco em eficiência, redução de falhas e segurança dos dados.
@@ -85,6 +85,9 @@ Minhas Conquistas 🏆</br>
 <img src="https://github.com/user-attachments/assets/428cd63f-7431-4cd7-acd7-9851cf64c15e" width="250" height="130" />
 <img src="https://github.com/user-attachments/assets/14997a66-d80b-4e81-977e-b520b2d6cb28" width="250" height="130" />
 <img src="https://github.com/user-attachments/assets/d5d6479d-a371-4597-81bb-68d9b3102418" width="250" height="130" />
+</br>
+**SCRUMstudy**</br>
+<img src="https://github.com/user-attachments/assets/5e639b2f-c30a-4259-b93a-954e973cbfc6" width="120" height="120" />
 
 
 <!--
