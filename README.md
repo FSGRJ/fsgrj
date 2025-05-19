@@ -35,6 +35,10 @@ Minhas Certificações 🏅</br>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=6233DDDFE05279D92D197C90884BF7A773E36AF3E68A922A0FC2E81FEBE9E331" target="_blank">Oracle: Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</a></br>
 
 
+Minhas Conquistas 🏆
+![image](https://github.com/user-attachments/assets/1f2ef5af-d9e1-4946-8862-592a6a7dd249)
+
+
 <!--
 **FSGRJ/fsgrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
