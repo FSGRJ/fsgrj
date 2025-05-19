@@ -82,9 +82,9 @@ Minhas Conquistas 🏆</br>
 <img src="https://github.com/user-attachments/assets/01fba7f7-19f4-4900-8bf8-9daf5eb07d89" width="120" height="120" />
 </br>
 **ORACLE**</br>
-<img src="https://github.com/user-attachments/assets/428cd63f-7431-4cd7-acd7-9851cf64c15e" width="120" height="120" />
-<img src="https://github.com/user-attachments/assets/14997a66-d80b-4e81-977e-b520b2d6cb28" width="120" height="120" />
-<img src="https://github.com/user-attachments/assets/d5d6479d-a371-4597-81bb-68d9b3102418" width="120" height="120" />
+<img src="https://github.com/user-attachments/assets/428cd63f-7431-4cd7-acd7-9851cf64c15e" width="250" height="130" />
+<img src="https://github.com/user-attachments/assets/14997a66-d80b-4e81-977e-b520b2d6cb28" width="250" height="130" />
+<img src="https://github.com/user-attachments/assets/d5d6479d-a371-4597-81bb-68d9b3102418" width="250" height="130" />
 
 
 <!--
