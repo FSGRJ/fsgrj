@@ -1,4 +1,5 @@
 ## Olá! 👋 Eu sou Fabiano Gonçalves
+<hr>
 
 🧐 **PERFIL PROFISSIONAL** </br>
 <hr>
