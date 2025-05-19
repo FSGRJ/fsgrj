@@ -36,13 +36,50 @@ Minhas Certificações 🏅</br>
 
 
 Minhas Conquistas 🏆</br>
+**AWS**
 <img src="https://github.com/user-attachments/assets/b09e9ffc-5b85-49b6-9b37-c4997521ca07" width="120" height="120" />
+<img src="https://github.com/user-attachments/assets/56ed70df-2c99-4fcc-be21-3a3150eac8b9" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/1f2ef5af-d9e1-4946-8862-592a6a7dd249" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/7247c07a-3dab-41bc-aa01-ea8d54de6c11" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/78cd5171-ee78-42ae-aaa0-2a142f721680" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/c70d36a4-b25a-4b36-8483-ab04a7dcf414" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/1400f10f-93e1-49a6-a8cf-2a493f8a4da2" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/12051fe6-ae10-4ec0-9b4d-f2bcfd26ce66" width="120" height="120" />
+<img src="https://github.com/user-attachments/assets/7d053ebd-0364-4058-a2bb-45b895eb1a4b" width="120" height="120" />
+<img src="https://github.com/user-attachments/assets/7d053ebd-0364-4058-a2bb-45b895eb1a4b" width="120" height="120" />
+<img src="https://github.com/user-attachments/assets/76fdada0-1ba2-4804-8d9c-20093a78ef9d" width="120" height="120" />
+<img src="https://github.com/user-attachments/assets/138d6793-f0f1-4bdf-9ce6-9b3a4cab5ee7" width="120" height="120" />
+<img src="https://github.com/user-attachments/assets/4d007b10-63e4-4cb3-941d-0c29d6b6ce01" width="120" height="120" />
+<img src="https://github.com/user-attachments/assets/0c3aff0d-ec27-4790-84c8-8a6913d152a5" width="120" height="120" />
+<img src="https://github.com/user-attachments/assets/1879a3ce-16f3-40ee-9f3b-e3f7b7b30c28" width="120" height="120" />
+<img src="https://github.com/user-attachments/assets/86284f4f-144e-4678-bdae-89a4fd3b9fa0" width="120" height="120" />
+<img src="https://github.com/user-attachments/assets/807a42e2-164c-48c5-be76-20fee9a68383" width="120" height="120" />
+<img src="https://github.com/user-attachments/assets/becab179-b80a-414d-bd90-985bb3ddf797" width="120" height="120" />
+<img src="https://github.com/user-attachments/assets/a046d0f8-b03c-4c5f-80e1-555280db9209" width="120" height="120" />
+</br>
+
+**CISCO**</br>
+<img src="https://github.com/user-attachments/assets/675108b5-4fe4-417a-997e-ff0b6ae2753d" width="120" height="120" />
+<img src="https://github.com/user-attachments/assets/10828876-7be6-48e8-8381-a5f5a994ad36" width="120" height="120" />
+</br>
+**THE LINUX**</br>
+<img src="https://github.com/user-attachments/assets/66a435b0-ce4c-48f0-a4de-2bf7a1eb7a8f" width="120" height="120" />
+<img src="https://github.com/user-attachments/assets/d1edb05f-f7bf-4a08-865a-8c5cd00ec347" width="120" height="120" />
+<img src="https://github.com/user-attachments/assets/624837ac-3fd8-4ce8-858a-0df3813c83c3" width="120" height="120" />
+<img src="https://github.com/user-attachments/assets/fae30e00-7119-4b8b-aa34-eb7d96021208" width="120" height="120" />
+</br>
+**IBM** 
+</br>
+<img src="https://github.com/user-attachments/assets/1ee4b0de-3430-4dbc-9e7a-b9021cc5b689" width="120" height="120" />
+<img src="https://github.com/user-attachments/assets/508def34-d9c5-4366-bd99-855471fd13d5" width="120" height="120" />
+
+**CERTIPROF**
+<img src="https://github.com/user-attachments/assets/58172833-1cb5-46c8-bb44-f645029673e0" width="120" height="120" />
+<img src="https://github.com/user-attachments/assets/fbea5ad0-be5f-46f3-8cce-4794a27a3bd9" width="120" height="120" />
+<img src="https://github.com/user-attachments/assets/8e593707-1282-42d9-914c-20f1549b5713" width="120" height="120" />
+
+
+
 <!--
 **FSGRJ/fsgrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
