@@ -1,6 +1,7 @@
 ## Olá! 👋 Eu sou Fabiano Gonçalves
-🧐 **PERFIL PROFISSIONAL** </br>
-<hr />
+
+## 🧐 **PERFIL PROFISSIONAL** </br>
+
 Sou um Analista de Sistemas 👨🏻‍💻 ☁️
 
 Com mais de dez anos de experiência na criação e implementação de soluções informatizadas para instituições financeiras e corporativos de grande porte, atuando em projetos de melhoria de processos, integração entre sistemas e implantação de pipelines de entrega com foco em eficiência, redução de falhas e segurança dos dados.
@@ -19,11 +20,8 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 - Por e-mail <a href="mailto:fabgoncalves@gmail.com">Clique aqui para enviar um e-mail</a>
 
 
-<hr />
+## **Minhas Certificações** 🏅
 
-**Minhas Certificações** 🏅
-
-<hr />
 <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/64c1d87b-e3c9-4429-be48-5ab591af7526-fabiano-sampaio-gonalves-73eb61c1-eca6-4eef-a334-c9122b544323-certificate.pdf" target="_blank">The LINUX FOUNDATION: Introduction to DevOps and Site Reliability Engineering (LFS162)</a></br>
 <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/64c1d87b-e3c9-4429-be48-5ab591af7526-fabiano-sampaio-gonalves-f36e1b26-c6ee-4d4b-aa6f-b1e700968326-certificate.pdf" target="_blank">The LINUX FOUNDATION: Introduction to DevSecOps for Managers (LFS180)</a></br>
 <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/64c1d87b-e3c9-4429-be48-5ab591af7526-fabiano-sampaio-gonalves-4d93aa19-49e3-4ff9-8a85-31afa3f6c145-certificate.pdf" target="_blank">The LINUX FOUNDATION: Introduction to GitOps (LFS169)</a></br>
@@ -37,10 +35,7 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E6313FBF1E1C50C52627327A360F828DFB1CE0D9D4AA8E7D22CEC178F8477239" target="_blank">Oracle: Oracle Cloud Infrastructure 2025 Certified Foundations Associate</a></br>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=6233DDDFE05279D92D197C90884BF7A773E36AF3E68A922A0FC2E81FEBE9E331" target="_blank">Oracle: Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</a></br>
 
-<hr />
-
-**Minhas Conquistas** 🏆
-<hr />
+## **Minhas Conquistas** 🏆
 
 **AWS**</br>
 <img src="https://github.com/user-attachments/assets/b09e9ffc-5b85-49b6-9b37-c4997521ca07" width="120" height="120" />
@@ -62,6 +57,7 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 <img src="https://github.com/user-attachments/assets/807a42e2-164c-48c5-be76-20fee9a68383" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/becab179-b80a-414d-bd90-985bb3ddf797" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/a046d0f8-b03c-4c5f-80e1-555280db9209" width="120" height="120" />
+<img src="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png" width="120" height="120" />
 </br>
 **CISCO**</br>
 <img src="https://github.com/user-attachments/assets/675108b5-4fe4-417a-997e-ff0b6ae2753d" width="120" height="120" />
@@ -94,10 +90,7 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 **SCRUMstudy**</br>
 <img src="https://github.com/user-attachments/assets/5e639b2f-c30a-4259-b93a-954e973cbfc6" width="120" height="120" />
 
-<hr />
-
-**Meus Currículos**🏅
-<hr />
+## **Meus Currículos**🏅
 
 [Fabiano_Goncalves_AnalistaSistemas_CV.pdf](https://github.com/user-attachments/files/20319674/Fabiano_Goncalves_AnalistaSistemas_CV.pdf)</br>
 [CV_Linkedin_Fabiano_Goncalves_AnalistaSistemas.pdf](https://github.com/user-attachments/files/20319683/CV_Linkedin_Fabiano_Goncalves_AnalistaSistemas.pdf)
