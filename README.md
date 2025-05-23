@@ -38,7 +38,7 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 
 ## **Minhas Conquistas** 🏆
 
-**AWS**</br>
+## **AWS**
 <img src="https://github.com/user-attachments/assets/b09e9ffc-5b85-49b6-9b37-c4997521ca07" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/56ed70df-2c99-4fcc-be21-3a3150eac8b9" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/1f2ef5af-d9e1-4946-8862-592a6a7dd249" width="120" height="120" />
@@ -58,40 +58,40 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 <img src="https://github.com/user-attachments/assets/807a42e2-164c-48c5-be76-20fee9a68383" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/becab179-b80a-414d-bd90-985bb3ddf797" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/a046d0f8-b03c-4c5f-80e1-555280db9209" width="120" height="120" />
-<img src="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png" width="120" height="120" />
-</br>
-**CISCO**</br>
+<img src="https://github.com/user-attachments/assets/3616418f-0a51-4298-93ba-95fe1f7f43bb" width="120" height="120" />
+
+## **CISCO**
 <img src="https://github.com/user-attachments/assets/675108b5-4fe4-417a-997e-ff0b6ae2753d" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/10828876-7be6-48e8-8381-a5f5a994ad36" width="120" height="120" />
-</br>
-**THE LINUX**</br>
+
+## **THE LINUX**
 <img src="https://github.com/user-attachments/assets/66a435b0-ce4c-48f0-a4de-2bf7a1eb7a8f" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/d1edb05f-f7bf-4a08-865a-8c5cd00ec347" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/624837ac-3fd8-4ce8-858a-0df3813c83c3" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/fae30e00-7119-4b8b-aa34-eb7d96021208" width="120" height="120" />
-</br>
-**IBM** 
-</br>
+
+## **IBM** 
 <img src="https://github.com/user-attachments/assets/1ee4b0de-3430-4dbc-9e7a-b9021cc5b689" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/508def34-d9c5-4366-bd99-855471fd13d5" width="120" height="120" />
-</br>
-**CERTIPROF**</br>
+
+## **CERTIPROF**
 <img src="https://github.com/user-attachments/assets/58172833-1cb5-46c8-bb44-f645029673e0" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/fbea5ad0-be5f-46f3-8cce-4794a27a3bd9" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/8e593707-1282-42d9-914c-20f1549b5713" width="120" height="120" />
-</br>
-**IBSEC**</br>
+
+## **IBSEC**
 <img src="https://github.com/user-attachments/assets/01fba7f7-19f4-4900-8bf8-9daf5eb07d89" width="120" height="120" />
-</br>
-**ORACLE**</br>
+
+## **ORACLE**
 <img src="https://github.com/user-attachments/assets/428cd63f-7431-4cd7-acd7-9851cf64c15e" width="250" height="130" />
 <img src="https://github.com/user-attachments/assets/14997a66-d80b-4e81-977e-b520b2d6cb28" width="250" height="130" />
 <img src="https://github.com/user-attachments/assets/d5d6479d-a371-4597-81bb-68d9b3102418" width="250" height="130" />
-</br>
-**SCRUMstudy**</br>
+
+## **SCRUMstudy**
 <img src="https://github.com/user-attachments/assets/5e639b2f-c30a-4259-b93a-954e973cbfc6" width="120" height="120" />
-**OPSWAT**</br>
-<img src="https://github.com/user-attachments/assets/72df7ff6-8474-4d97-a1dd-b689721c29fb" width="120" height="120" />
+
+## **OPSWAT**
+<img src="https://github.com/user-attachments/assets/07b426b4-2192-48ba-99d9-bf14deaebc8c" width="120" height="120" />
 
 ## **Meus Currículos**🏅
 
