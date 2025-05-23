@@ -34,6 +34,7 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FBD66F69ECA751BE7C062846CB7CDAD5810EDBFD490CE8FB034854349A20537E" target="_blank">Oracle: Oracle Data Platform 2025 Certified Foundations Associate</a></br>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E6313FBF1E1C50C52627327A360F828DFB1CE0D9D4AA8E7D22CEC178F8477239" target="_blank">Oracle: Oracle Cloud Infrastructure 2025 Certified Foundations Associate</a></br>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=6233DDDFE05279D92D197C90884BF7A773E36AF3E68A922A0FC2E81FEBE9E331" target="_blank">Oracle: Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</a></br>
+<a href="https://learn.opswatacademy.com/certificate/2VESP23P5Q" target="_blank">OPSWAT Academy: Introduction to Critical Infrastructure Protection Certificate</a></br>
 
 ## **Minhas Conquistas** 🏆
 
