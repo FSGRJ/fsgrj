@@ -1,5 +1,8 @@
 ## Olá! 👋 Eu sou Fabiano Gonçalves
 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="fabiano-gonçalves-93082128" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/fabiano-gon%C3%A7alves-93082128?trk=profile-badge">Fabiano Gonçalves</a></div>
+              
+
 ## 🧐 **PERFIL PROFISSIONAL** </br>
 
 Sou um Analista de Sistemas 👨🏻‍💻 ☁️
