@@ -29,6 +29,7 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 [Um dia na vida de um RPA Developer_Fabiano Sampaio Gonçalves_en-US_diploma.pdf](https://github.com/user-attachments/files/20421006/Um.dia.na.vida.de.um.RPA.Developer_Fabiano.Sampaio.Goncalves_en-US_diploma.pdf)</br>
 [Conheça o UiPath Platform_Fabiano Sampaio Gonçalves_en-US_diploma.pdf](https://github.com/user-attachments/files/20421005/Conheca.o.UiPath.Platform_Fabiano.Sampaio.Goncalves_en-US_diploma.pdf)</br>
 [Crie seu primeiro processo com o Studio_Fabiano Sampaio Gonçalves_en-US_diploma.pdf](https://github.com/user-attachments/files/20421004/Crie.seu.primeiro.processo.com.o.Studio_Fabiano.Sampaio.Goncalves_en-US_diploma.pdf)</br>
+[Automação de DataTables e do Excel com o Studio_Fabiano Sampaio Gonçalves_en-US_diploma.pdf](https://github.com/user-attachments/files/20421151/Automacao.de.DataTables.e.do.Excel.com.o.Studio_Fabiano.Sampaio.Goncalves_en-US_diploma.pdf)</br>
 
 
 
