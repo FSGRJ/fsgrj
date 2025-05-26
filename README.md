@@ -24,6 +24,59 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 
 [RPA Developer Foundation - Portuguese_Fabiano Sampaio Gonçalves_pt-BR_diploma.pdf](https://github.com/user-attachments/files/20445834/RPA.Developer.Foundation.-.Portuguese_Fabiano.Sampaio.Goncalves_pt-BR_diploma.pdf)</br>
 
+## **ALURA**
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/sharepoint-ambiente-facilidades/certificate">SharePoint: conhecendo o ambiente e facilidades</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/certificacao-linux-lpi-essentials-using-command-line-get-help/certificate">Certificação Linux LPI Essentials: using the command line to get help</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/linux-onboarding-utilizar-cli-forma-rapida-pratica/certificate">Linux Onboarding: usando a CLI de uma forma rápida e prática</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/linux-onboarding-arquivos-conteudos/certificate">Linux Onboarding: localizando arquivos e conteúdos</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/certificacao-linux-lpi-essentials-open-source-software-licensing/certificate">Certificação Linux LPI Essentials: Open Source Software and Licensing</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/certificacao-linux-lpi-essentials-evolution-distributions/certificate">Certificação Linux LPI Essentials: Evolution and Distributions</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/certificacao-linux-lpi-essentials-redirecting-i-o/certificate">Certificação Linux LPI Essentials: Redirecting I/O Redirection</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/certificacao-linux-lpi-essentials-command-line-basics/certificate">Certificação Linux LPI Essentials: Command Line Basics</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/Microsoft-az-900-parte-1-azure-fundamentals/certificate">Microsoft AZ-900 parte 1: Azure Fundamentals</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/microsoft-az-900-parte-2-azure-fundamentals/certificate">Microsoft AZ-900 parte 2: Azure Fundamentals</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/microsoft-az-900-parte-3-azure-fundamentals/certificate">Microsoft AZ-900 parte 3: Azure Fundamentals</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/microsoft-az-900-parte-4-azure-fundamentals/certificate">Microsoft AZ-900 parte 4: Azure Fundamentals</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/simulado-extra-certificacao-az-900/certificate">Certificação AZ-900: simulado extra</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/microsoft-az-900-azure-fundamentals-simulado/certificate">Microsoft AZ-900: simulado comentado</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/gitlab-docker-integracao-continua/certificate">Gitlab CI e Docker: Pipeline de entrega contínua</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/devops-trafego-seguro-comunicacoes-web/certificate">DevOps: trabalhando com tráfego seguro em comunicações web</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/devops-conceitos-comandos-scripts-linux-cli/certificate">DevOps: explorando conceitos, comandos e scripts no Linux CLI</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/azure-gerencie-kubernetes-com-aks-acr/certificate">Azure: gerencie Kubernetes com AKS e ACR</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/azure-functions-incorpore-funcoes-loja-virtual/certificate">Azure Functions: incorpore funções a uma loja virtual</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/agilidade-devops-desenvolvimento-software/certificate">Agilidade e DevOps: um dia no desenvolvimento de software</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/devops-construindo-gerindo-containers-docker/certificate">DevOps: construindo e gerindo containers com o Docker</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/docker-criando-gerenciando-containers/certificate">Docker: criando e gerenciando containers</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/azure-cloud-seguranca-recursos-avancados/certificate">Azure Cloud: segurança e recursos avançados</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/azure-cloud-criando-servidor-banco-dados-receber-aplicacao/certificate">Azure Cloud: criando um servidor com banco de dados para receber uma aplicação</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/devops-trabalhando-repositorios-github/certificate">DevOps: trabalhando com repositórios no GitHub</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/certificacao-csharp-criar-tipos/certificate">Certificação C# Programming parte 1: Criar tipos</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/certificacao-csharp-consumir-tipos/certificate">Certificação C# Programming parte 2: Consumir tipos</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/certificacao-csharp-encapsulamento-hierarquia-de-classes/certificate">Certificação C# Programming parte 3: Encapsulamento e Hierarquia de Classes</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/certificacao-csharp-fluxo-de-programa-excecoes/certificate">Certificação C# Programming parte 4: Fluxo de programa e exceções</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/certificacao-csharp-strings-ciclo-de-vida-objetos/certificate">Certificação C# Programming parte 5: Strings e Ciclo de Vida de Objetos</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/certificacao-csharp-colecoes-xml-json/certificate">Certificação C# Programming parte 6: Coleções, XML e JSON</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/certificacao-csharp-eventos-linq/certificate">Certificação C# Programming parte 7: Eventos e LINQ</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/certificacao-csharp-entrada-saida-dados/certificate">Certificação C# Programming parte 8: Entrada e Saída de Dados</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/certificacao-csharp-depurar-aplicativos/certificate">Certificação C# Programming parte 9: Depurar Aplicativos</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/certificacao-csharp-reflection/certificate">Certificação C# Programming parte 10: Reflection</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/certificacao-csharp-multithreading/certificate">Certificação C# Programming parte 11: Multithreading</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/certificacao-csharp-validar-seguranca/certificate">Certificação C# Programming parte 12: Validar Segurança</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/wcf-framework/certificate">WCF : Distribua seus sistemas em .NET</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/ansible-implementando-infraestrutura-codigo/certificate">Ansible: implementando sua infraestrutura como código</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/fundamentos-microsservicos-aprofundando-conceitos/certificate">Microsserviços: explorando os conceitos</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/Microsservicos-pratica-tomada-decisoes/certificate">Microsserviços na prática: entendendo a tomada de decisões</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/monitoramento-prometheus-grafana-alertmanager/certificate">Monitoramento: Prometheus, Grafana e Alertmanager</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/observabilidade-prometheus/certificate">Observabilidade: coletando métricas de uma aplicação com Prometheus</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/integracao-continua-pipeline-docker-github-actions/certificate">Integração Contínua: Pipeline Docker no Github Actions</a></br>
+<a href="http://cursos.alura.com.br/user/fabgoncalves/course/integracao-continua-testes-automatizados-pipeline-github-actions/certificate">Integração Contínua: testes automatizados e pipeline no Github Actions</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/infraestrutura-codigo-maquinas-aws-ansible-terraform/certificate">Infraestrutura como código: preparando máquinas na AWS com Ansible e Terraform</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/vagrant-gerenciando-maquinas-virtuais/certificate">Vagrant: gerenciando máquinas virtuais</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/vb-net-primeiros-passos/certificate">VB.NET com Windows Forms Parte 1</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/vb-net-introducao-orientacao-objetos/certificate">VB.NET com Windows Forms Parte 2: Entendendo a Orientação a Objetos</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/vb-net-avancando-orientacao-objetos/certificate">VB.NET com Windows Forms Parte 3: avançando na Orientação à objetos</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/vb-net-excecoes/certificate">VB.NET com Windows Forms Parte 4: entendendo exceções</a></br>
+<a href="https://cursos.alura.com.br/user/fabgoncalves/course/vb-net-bibliotecas-dll-documentacao-nuget/certificate">VB.NET com Windows Forms Parte 5: Criando bibliotecas DLLs, documentação e usando o NuGet</a></br>
 
 
 ## **Minhas Certificações** 🏅
