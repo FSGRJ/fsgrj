@@ -21,15 +21,8 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 
 ## **Meus Cursos** 🏅
 ## **UIPATH**
-[Introdução à Automação de Interface do Usuário_Fabiano Sampaio Gonçalves_en-US_diploma.pdf](https://github.com/user-attachments/files/20421011/Introducao.a.Automacao.de.Interface.do.Usuario_Fabiano.Sampaio.Goncalves_en-US_diploma.pdf)</br>
-[Automação de interface gráfica com a experiência moderna_Fabiano Sampaio Gonçalves_en-US_diploma.pdf](https://github.com/user-attachments/files/20421010/Automacao.de.interface.grafica.com.a.experiencia.moderna_Fabiano.Sampaio.Goncalves_en-US_diploma.pdf)</br>
-[Automação de interface gráfica com a experiência clássica_Fabiano Sampaio Gonçalves_en-US_diploma.pdf](https://github.com/user-attachments/files/20421009/Automacao.de.interface.grafica.com.a.experiencia.classica_Fabiano.Sampaio.Goncalves_en-US_diploma.pdf)</br>
-[Variáveis e argumentos no Studio_Fabiano Sampaio Gonçalves_en-US_diploma.pdf](https://github.com/user-attachments/files/20421008/Variaveis.e.argumentos.no.Studio_Fabiano.Sampaio.Goncalves_en-US_diploma.pdf)</br>
-[Control Flow in Studio - Portuguese_Fabiano Sampaio Gonçalves_en-US_diploma.pdf](https://github.com/user-attachments/files/20421007/Control.Flow.in.Studio.-.Portuguese_Fabiano.Sampaio.Goncalves_en-US_diploma.pdf)</br>
-[Um dia na vida de um RPA Developer_Fabiano Sampaio Gonçalves_en-US_diploma.pdf](https://github.com/user-attachments/files/20421006/Um.dia.na.vida.de.um.RPA.Developer_Fabiano.Sampaio.Goncalves_en-US_diploma.pdf)</br>
-[Conheça o UiPath Platform_Fabiano Sampaio Gonçalves_en-US_diploma.pdf](https://github.com/user-attachments/files/20421005/Conheca.o.UiPath.Platform_Fabiano.Sampaio.Goncalves_en-US_diploma.pdf)</br>
-[Crie seu primeiro processo com o Studio_Fabiano Sampaio Gonçalves_en-US_diploma.pdf](https://github.com/user-attachments/files/20421004/Crie.seu.primeiro.processo.com.o.Studio_Fabiano.Sampaio.Goncalves_en-US_diploma.pdf)</br>
-[Automação de DataTables e do Excel com o Studio_Fabiano Sampaio Gonçalves_en-US_diploma.pdf](https://github.com/user-attachments/files/20421151/Automacao.de.DataTables.e.do.Excel.com.o.Studio_Fabiano.Sampaio.Goncalves_en-US_diploma.pdf)</br>
+
+[RPA Developer Foundation - Portuguese_Fabiano Sampaio Gonçalves_pt-BR_diploma.pdf](https://github.com/user-attachments/files/20445834/RPA.Developer.Foundation.-.Portuguese_Fabiano.Sampaio.Goncalves_pt-BR_diploma.pdf)</br>
 
 
 
