@@ -142,6 +142,7 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 <img src="https://github.com/user-attachments/assets/fae30e00-7119-4b8b-aa34-eb7d96021208" width="120" height="120" />
 
 ## **IBM** 
+<img src="https://github.com/user-attachments/assets/47abe8fe-64eb-4db2-81fb-c24f90be1cba" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/1ee4b0de-3430-4dbc-9e7a-b9021cc5b689" width="120" height="120" />
 <img src="https://github.com/user-attachments/assets/508def34-d9c5-4366-bd99-855471fd13d5" width="120" height="120" />
 
