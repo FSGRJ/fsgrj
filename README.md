@@ -100,6 +100,13 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 ### **OPSWAT Academy**
 <a href="https://learn.opswatacademy.com/certificate/2VESP23P5Q" target="_blank"> Introduction to Critical Infrastructure Protection (ICIP)</a></br>
 
+## **COGNITIVE**
+<a href="https://courses.cognitiveclass.ai/certificates/8f4368606c874aeabf434978d36da628" target="_blank">Introduction to Containers, Kubernetes, and OpenShift</a></br>
+<a href="https://courses.cognitiveclass.ai/certificates/b028598fe3eb49cf85c71f89facd3050" target="_blank">Docker Essentials: A Developer Introduction</a></br>
+<a href="https://courses.cognitiveclass.ai/certificates/ef20da301fac45059aba223cb8498424" target="_blank">Beyond the Basics: Istio and IBM Cloud Kubernetes Service</a></br>
+<a href="https://courses.cognitiveclass.ai/certificates/7d2ad58e27aa4a3faa75efb2b8921c68" target="_blank">Getting started with Microservices with Istio and IBM Cloud Kubernetes Service</a></br>
+<a href="https://courses.cognitiveclass.ai/certificates/c15c7186ad48477fad144502bfcca437" target="_blank">Fundamentals of Encryption & Quantum-Safe Techniques</a></br>
+
 ## **Minhas Conquistas** 🏆
 
 ## **AWS**
@@ -156,6 +163,7 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 
 ## **OPSWAT**
 <img src="https://github.com/user-attachments/assets/07b426b4-2192-48ba-99d9-bf14deaebc8c" width="120" height="120" />
+
 
 ## **Meus Currículos**🏅
 
