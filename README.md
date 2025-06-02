@@ -78,6 +78,10 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 <a href="https://cursos.alura.com.br/user/fabgoncalves/course/vb-net-excecoes/certificate">VB.NET com Windows Forms Parte 4: entendendo exceções</a></br>
 <a href="https://cursos.alura.com.br/user/fabgoncalves/course/vb-net-bibliotecas-dll-documentacao-nuget/certificate">VB.NET com Windows Forms Parte 5: Criando bibliotecas DLLs, documentação e usando o NuGet</a></br>
 
+## **Fundação Bradesco**
+<a href="https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDownload.ashx?uid=12430458&p=5KIEA49chsfSy15ncwKkJqK0IZJv6S2D">AI-900 - FUNDAMENTOS DE IA NO AZURE</a></br>
+<a href="https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDownload.ashx?uid=12430458&p=5KIEA49chsfSy15ncwKkJhmxkXOsuFgQ">INTELIGÊNCIA ARTIFICIAL PARA PEQUENAS E MÉDIAS EMPRESAS</a></br>
+
 
 ## **Minhas Certificações** 🏅
 
