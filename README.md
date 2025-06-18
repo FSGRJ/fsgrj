@@ -21,6 +21,7 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 
 ## **Meus Cursos** 🏅
 ## **UIPATH**
+https://cloud.uipath.com/fsgrj/DefaultTenant/orchestrator_/queues?tid=2150938&fid=6729730
 
 [RPA Developer Foundation - Portuguese_Fabiano Sampaio Gonçalves_pt-BR_diploma.pdf](https://github.com/user-attachments/files/20445834/RPA.Developer.Foundation.-.Portuguese_Fabiano.Sampaio.Goncalves_pt-BR_diploma.pdf)</br>
 
