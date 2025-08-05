@@ -82,8 +82,8 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 
 ## **Minhas Certificações** 🏅
 ### **UiPath Academy**
-<a href="https://pdf.credential.net/p6nxo11i_1754416400472.pdf" target="_blank">UiPath Academy Automation Developer Professional Training</a></br>
-<a href="https://github.com/user-attachments/files/20445834/RPA.Developer.Foundation.-.Portuguese_Fabiano.Sampaio.Goncalves_pt-BR_diploma.pdf" target="_blank">RPA Developer Foundation</a></br>
+<a href="https://pdf.credential.net/p6nxo11i_1754416400472.pdf" target="_blank">UiPath Academy - Automation Developer Professional Training</a></br>
+<a href="https://github.com/user-attachments/files/20445834/RPA.Developer.Foundation.-.Portuguese_Fabiano.Sampaio.Goncalves_pt-BR_diploma.pdf" target="_blank">UiPath Academy - RPA Developer Foundation</a></br>
 
 ### **The LINUX FOUNDATION**
 <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/64c1d87b-e3c9-4429-be48-5ab591af7526-fabiano-sampaio-gonalves-73eb61c1-eca6-4eef-a334-c9122b544323-certificate.pdf" target="_blank">Introduction to DevOps and Site Reliability Engineering (LFS162)</a></br>
