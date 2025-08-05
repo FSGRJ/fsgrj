@@ -86,6 +86,8 @@ https://cloud.uipath.com/fsgrj/DefaultTenant/orchestrator_/queues?tid=2150938&fi
 
 
 ## **Minhas Certificações** 🏅
+### **UiPath Academy**
+<a href="https://pdf.credential.net/p6nxo11i_1754416400472.pdf" target="_blank">UiPath Academy Automation Developer Professional Training</a></br>
 
 ### **The LINUX FOUNDATION**
 <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/64c1d87b-e3c9-4429-be48-5ab591af7526-fabiano-sampaio-gonalves-73eb61c1-eca6-4eef-a334-c9122b544323-certificate.pdf" target="_blank">Introduction to DevOps and Site Reliability Engineering (LFS162)</a></br>
@@ -114,6 +116,9 @@ https://cloud.uipath.com/fsgrj/DefaultTenant/orchestrator_/queues?tid=2150938&fi
 <a href="https://courses.cognitiveclass.ai/certificates/c15c7186ad48477fad144502bfcca437" target="_blank">Fundamentals of Encryption & Quantum-Safe Techniques</a></br>
 
 ## **Minhas Conquistas** 🏆
+
+### **UiPath Academy**
+<img src="https://images.credential.net/badge/tiny/p6nxo11i_1754416400472_badge.png" width="120" height="120" />
 
 ## **AWS**
 <img src="https://github.com/user-attachments/assets/b09e9ffc-5b85-49b6-9b37-c4997521ca07" width="120" height="120" />
