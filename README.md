@@ -21,11 +21,6 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 - Por e-mail <a href="mailto:fabgoncalves@gmail.com">Clique aqui para enviar um e-mail</a>
 
 ## **Meus Cursos** 🏅
-## **UIPATH**
-https://cloud.uipath.com/fsgrj/DefaultTenant/orchestrator_/queues?tid=2150938&fid=6729730
-
-[RPA Developer Foundation - Portuguese_Fabiano Sampaio Gonçalves_pt-BR_diploma.pdf](https://github.com/user-attachments/files/20445834/RPA.Developer.Foundation.-.Portuguese_Fabiano.Sampaio.Goncalves_pt-BR_diploma.pdf)</br>
-
 ## **ALURA**
 <a href="https://cursos.alura.com.br/user/fabgoncalves/course/sharepoint-ambiente-facilidades/certificate">SharePoint: conhecendo o ambiente e facilidades</a></br>
 <a href="https://cursos.alura.com.br/user/fabgoncalves/course/certificacao-linux-lpi-essentials-using-command-line-get-help/certificate">Certificação Linux LPI Essentials: using the command line to get help</a></br>
@@ -88,6 +83,7 @@ https://cloud.uipath.com/fsgrj/DefaultTenant/orchestrator_/queues?tid=2150938&fi
 ## **Minhas Certificações** 🏅
 ### **UiPath Academy**
 <a href="https://pdf.credential.net/p6nxo11i_1754416400472.pdf" target="_blank">UiPath Academy Automation Developer Professional Training</a></br>
+<a href="https://github.com/user-attachments/files/20445834/RPA.Developer.Foundation.-.Portuguese_Fabiano.Sampaio.Goncalves_pt-BR_diploma.pdf" target="_blank">RPA Developer Foundation</a></br>
 
 ### **The LINUX FOUNDATION**
 <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/64c1d87b-e3c9-4429-be48-5ab591af7526-fabiano-sampaio-gonalves-73eb61c1-eca6-4eef-a334-c9122b544323-certificate.pdf" target="_blank">Introduction to DevOps and Site Reliability Engineering (LFS162)</a></br>
