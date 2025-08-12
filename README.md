@@ -119,6 +119,7 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 
 ### **UiPath Academy**
 <img src="https://images.credential.net/badge/tiny/p6nxo11i_1754416400472_badge.png" width="120" height="120" />
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/157885997" width="120" height="120" />
 
 ## **AWS**
 <img src="https://github.com/user-attachments/assets/b09e9ffc-5b85-49b6-9b37-c4997521ca07" width="120" height="120" />
