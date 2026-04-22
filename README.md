@@ -11,7 +11,7 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 🤝🏻 Estou procurando colaborar com outros criadores de conteúdo e desenvolvedores.</br>
 🥅 Metas para 2025: Contribuir para projetos de código aberto e aprender novas tecnologias.</br>
 👐🏻 Estou procurando oportunidades ilimitadas de aprendizado.</br>
-🤝🏻 Sou apaixonada pelo meu trabalho e sempre ansiosa para me conectar com outros especialistas.</br>
+🤝🏻 Sou apaixonada pelo meu trabalho e sempre ansioso para me conectar com outros especialistas.</br>
 👉🏻 <a href="https://developers.google.com/profile/u/107092255134418473017?hl=pt-br" target="_blank">Perfil de desenvolvedor do Google</a> 👨🏻‍💻</br>
 👉🏻 <a href="https://leetcode.com/u/HPWJrP6sxf/" target="_blank">Perfil LeetCode</a> 👨🏻‍💻</br>
 👉🏻 <a href="https://certdirectory.io/profile/95788986-2977-456b-924b-5103268342b2/" target="_blank">Perfil CertDirectory</a> 👨🏻‍💻</br>
