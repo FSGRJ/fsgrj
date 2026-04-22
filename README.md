@@ -2,7 +2,7 @@
 
 ## 🧐 **PERFIL PROFISSIONAL** </br>
 
-Sou um Analista de Sistemas 👨🏻‍💻 ☁️
+Sou um Analista de Sistemas e GCM 👨🏻‍💻 ☁️
 
 Com mais de dez anos de experiência na criação e implementação de soluções informatizadas para instituições financeiras e corporativos de grande porte, atuando em projetos de melhoria de processos, integração entre sistemas e implantação de pipelines de entrega com foco em eficiência, redução de falhas e segurança dos dados.
 Profissional eficiente e com boas habilidades de relacionamento interpessoal, que contribui para a prestação de um serviço de excelência e para o suporte à equipe em tarefas diversas, visando colaborar efetivamente com a rotina de trabalho.
