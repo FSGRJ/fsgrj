@@ -10,6 +10,7 @@
 [![Location](https://img.shields.io/badge/Rio%20de%20Janeiro%2C%20Brasil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white)](#) </br>
 https://github.com/FSGRJ/fsgrj/security
 </div>
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)(https://www.linkedin.com/in/fabiano-gonçalves-93082128)
 
 ---
 
