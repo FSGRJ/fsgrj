@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-gonçalves-93082128)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/fabiano-goncalves.a074a51d)
 [![CertDirectory](https://img.shields.io/badge/CertDirectory-1E293B?style=for-the-badge&logo=bookstack&logoColor=white)](https://certdirectory.io/profile/95788986-2977-456b-924b-5103268342b2)
-[![Location](https://img.shields.io/badge/Rio%20de%20Janeiro%2C%20Brasil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white)](#) < /br>
+[![Location](https://img.shields.io/badge/Rio%20de%20Janeiro%2C%20Brasil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white)](#) </br>
 https://github.com/FSGRJ/fsgrj/security
 </div>
 
