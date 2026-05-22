@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Fabiano Gonçalves
 
-### Systems Analyst · DevOps Engineer · Cloud Specialist
+### Analista de Sistemas | CI/CD · Azure DevOps · RPA · Automação de Processos
 
 <a href="https://www.linkedin.com/in/fabiano-gonçalves-93082128" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.credly.com/users/fabiano-goncalves.a074a51d" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
