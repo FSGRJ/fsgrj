@@ -2,10 +2,10 @@
 
 ## 🧐 **PERFIL PROFISSIONAL** </br>
 
-Sou um Analista de Sistemas e GCM 👨🏻‍💻 ☁️
+Analista de Sistemas | CI/CD · Azure DevOps · RPA · Automação de Processos | +10 anos em Fintechs e Corporativos 👨🏻‍💻 ☁️
 
-Com mais de dez anos de experiência na criação e implementação de soluções informatizadas para instituições financeiras e corporativos de grande porte, atuando em projetos de melhoria de processos, integração entre sistemas e implantação de pipelines de entrega com foco em eficiência, redução de falhas e segurança dos dados.
-Profissional eficiente e com boas habilidades de relacionamento interpessoal, que contribui para a prestação de um serviço de excelência e para o suporte à equipe em tarefas diversas, visando colaborar efetivamente com a rotina de trabalho.
+Com mais de 10 anos transformando caos operacional em fluxo de entrega previsível, atuei em projetos críticos para instituições financeiras e corporativos de grande porte — integrando sistemas, automatizando pipelines CI/CD e eliminando gargalos que custavam tempo e dinheiro.
+Minha atuação vai além do código: Construo pontes entre áreas técnicas e de negócio, reduzo falhas com processos bem estruturados e garanto que dados sensíveis trafeguem com a segurança que o ambiente regulatório exige.
 
 🌱 Estou expandindo meu conhecimento em Cloud e DevOps.</br>
 🤝🏻 Estou procurando colaborar com outros criadores de conteúdo e desenvolvedores.</br>
@@ -24,6 +24,9 @@ Profissional eficiente e com boas habilidades de relacionamento interpessoal, qu
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FSGRJ&show_icons=true&theme=dark)
 
 ## **Meus Cursos** 🏅
 ## **ALURA**
