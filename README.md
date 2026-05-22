@@ -21,13 +21,6 @@ Minha atuação vai além do código: Construo pontes entre áreas técnicas e d
 - Por e-mail <a href="mailto:fabgoncalves@gmail.com">Clique aqui para enviar um e-mail</a>
 
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FSGRJ&show_icons=true&theme=dark)
-
 ## **Meus Cursos** 🏅
 ## **ALURA**
 <a href="https://cursos.alura.com.br/user/fabgoncalves/course/sharepoint-ambiente-facilidades/certificate">SharePoint: conhecendo o ambiente e facilidades</a></br>
