@@ -4,7 +4,7 @@
 
 ### Systems Analyst · DevOps Engineer · Cloud Specialist
 
-<a href="https://linkedin.com/in/fabiano-sampaio-gonçalves-93082128" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/fabiano-gonçalves-93082128" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.credly.com/users/fabiano-goncalves.a074a51d" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
 <a href="https://certdirectory.io/profile/95788986-2977-456b-924b-5103268342b2" target="_blank"><img src="https://img.shields.io/badge/CertDirectory-1E293B?style=for-the-badge&logo=bookstack&logoColor=white" alt="CertDirectory"/></a>
 <img src="https://img.shields.io/badge/Rio%20de%20Janeiro%2C%20Brasil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
