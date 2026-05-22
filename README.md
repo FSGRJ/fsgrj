@@ -130,7 +130,7 @@ Atualmente expandindo minha atuação em **Cloud Computing** e **DevOps**, com �
 </div>
 
 > 🔗 Veja todos os badges e certificações verificáveis em:
-> <a href="https://www.credly.com/users/fabiano-goncalves.a074a51d" target="_blank"><strong>Credly</strong></a> · <a href="https://certdirectory.io/profile/95788986-2977-456b-924b-5103268342b2" target="_blank"><strong>CertDirectory</strong></a>
+> <a href="https://www.credly.com/users/fabiano-goncalves.a074a51d" target="_blank"><strong>Credly</strong></a> · <a href="https://www.certdirectory.io/profile/95788986-2977-456b-924b-5103268342b2" target="_blank"><strong>CertDirectory</strong></a>
 
 ---
 
