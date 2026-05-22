@@ -2,15 +2,14 @@
 
 # 👋 Olá, eu sou Fabiano Gonçalves
 
-### Analista de Sistemas | CI/CD · Azure DevOps · RPA · Automação de Processos | +10 anos em Fintechs e Corporativos
+### Systems Analyst · DevOps Engineer · Cloud Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-gonçalves-93082128)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/fabiano-goncalves.a074a51d)
-[![CertDirectory](https://img.shields.io/badge/CertDirectory-1E293B?style=for-the-badge&logo=bookstack&logoColor=white)](https://certdirectory.io/profile/95788986-2977-456b-924b-5103268342b2)
-[![Location](https://img.shields.io/badge/Rio%20de%20Janeiro%2C%20Brasil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white)](#) </br>
-https://github.com/FSGRJ/fsgrj/security
+<a href="https://linkedin.com/in/fabiano-sampaio-gonçalves-93082128" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.credly.com/users/fabiano-goncalves.a074a51d" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
+<a href="https://certdirectory.io/profile/95788986-2977-456b-924b-5103268342b2" target="_blank"><img src="https://img.shields.io/badge/CertDirectory-1E293B?style=for-the-badge&logo=bookstack&logoColor=white" alt="CertDirectory"/></a>
+<img src="https://img.shields.io/badge/Rio%20de%20Janeiro%2C%20Brasil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+
 </div>
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)(https://www.linkedin.com/in/fabiano-gonçalves-93082128)
 
 ---
 
@@ -67,9 +66,9 @@ Atualmente expandindo minha atuação em **Cloud Computing** e **DevOps**, com �
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FSGRJ&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+<a href="https://github.com/FSGRJ" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=FSGRJ&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/></a>
 &nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FSGRJ&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+<a href="https://github.com/FSGRJ?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FSGRJ&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/></a>
 
 </div>
 
@@ -131,13 +130,13 @@ Atualmente expandindo minha atuação em **Cloud Computing** e **DevOps**, com �
 </div>
 
 > 🔗 Veja todos os badges e certificações verificáveis em:
-> **[Credly](https://www.credly.com/users/fabiano-goncalves.a074a51d)** · **[CertDirectory](https://certdirectory.io/profile/95788986-2977-456b-924b-5103268342b2)**
+> <a href="https://www.credly.com/users/fabiano-goncalves.a074a51d" target="_blank"><strong>Credly</strong></a> · <a href="https://certdirectory.io/profile/95788986-2977-456b-924b-5103268342b2" target="_blank"><strong>CertDirectory</strong></a>
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabiano-sampaio-gonçalves-93082128)
+<a href="https://linkedin.com/in/fabiano-sampaio-gonçalves-93082128" target="_blank"><img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 ---
 
