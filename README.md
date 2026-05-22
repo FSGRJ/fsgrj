@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/in/fabiano-gonçalves-93082128" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.credly.com/users/fabiano-goncalves.a074a51d" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
 <a href="https://certdirectory.io/profile/95788986-2977-456b-924b-5103268342b2" target="_blank"><img src="https://img.shields.io/badge/CertDirectory-1E293B?style=for-the-badge&logo=bookstack&logoColor=white" alt="CertDirectory"/></a>
+
 <img src="https://img.shields.io/badge/Rio%20de%20Janeiro%2C%20Brasil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 
 </div>
@@ -82,10 +83,10 @@ Atualmente expandindo minha atuação em **Cloud Computing** e **DevOps**, com �
 
 | Certificação | Emissor | Ano |
 |---|---|---|
-| Oracle Cloud Infrastructure 2025 Foundations Associate | Oracle | 2025 |
-| Oracle Data Platform 2025 Foundations Associate | Oracle | 2025 |
-| Oracle Cloud Infrastructure 2025 AI Foundations Associate | Oracle | 2025 |
-| AWS Well-Architected Foundations | Amazon Web Services | 2025 |
+| <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E6313FBF1E1C50C52627327A360F828DFB1CE0D9D4AA8E7D22CEC178F8477239" target="_blank">Oracle Cloud Infrastructure 2025 Foundations Associate | Oracle</a> | 2025 |
+| <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FBD66F69ECA751BE7C062846CB7CDAD5810EDBFD490CE8FB034854349A20537E" target="_blank">Oracle Data Platform 2025 Foundations Associate</a> | Oracle | 2025 |
+| <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=6233DDDFE05279D92D197C90884BF7A773E36AF3E68A922A0FC2E81FEBE9E331" target="_blank">Oracle Cloud Infrastructure 2025 AI Foundations Associate</a> | Oracle | 2025 |
+| <a href="https://github.com/user-attachments/files/21708683/2afb8cb8-b3ae-4c6e-94a2-38bab6299758.pdf" target="_blank">AWS Well-Architected Foundations</a> | Amazon Web Services | 2025 |
 | AZ-900: Microsoft Azure Fundamentals | Microsoft | — |
 
 ### ⚙️ DevOps & Engenharia
@@ -136,7 +137,7 @@ Atualmente expandindo minha atuação em **Cloud Computing** e **DevOps**, com �
 
 ## 📫 Contato
 
-<a href="https://https://www.linkedin.com/in/fabiano-gonçalves-93082128" target="_blank"><img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/fabiano-gonçalves-93082128" target="_blank"><img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 ---
 
