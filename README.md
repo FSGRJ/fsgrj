@@ -136,7 +136,7 @@ Atualmente expandindo minha atuação em **Cloud Computing** e **DevOps**, com �
 
 ## 📫 Contato
 
-<a href="https://linkedin.com/in/fabiano-sampaio-gonçalves-93082128" target="_blank"><img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://https://www.linkedin.com/in/fabiano-gonçalves-93082128" target="_blank"><img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 ---
 
