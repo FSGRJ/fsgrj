@@ -117,10 +117,10 @@ Atuo principalmente em:
 ### ⚙️ DevOps & Engenharia
 | Certificação | Emissor |
 |:---:|:---:|
-| Introduction to DevOps and Site Reliability Engineering (LFS162) | Linux Foundation |
-| Introduction to DevSecOps for Managers (LFS180) | Linux Foundation |
-| Introduction to GitOps (LFS169) | Linux Foundation |
-| Introduction to Linux (LFS101) | Linux Foundation |
+| <a href="https://www.credly.com/badges/22229059-f9ae-4f73-b9a8-bbcc32f2dc49" target="_blank" rel="noopener noreferrer">Introduction to DevOps and Site Reliability Engineering (LFS162)</a> | Linux Foundation |
+| <a href="https://www.credly.com/badges/8629b92b-f088-4012-bc96-76880ddd6395" target="_blank" rel="noopener noreferrer">Introduction to DevSecOps for Managers (LFS180)</a> | Linux Foundation |
+| <a href="https://www.credly.com/badges/2e421a55-c26a-4b84-a3dc-4cd58e759784" target="_blank" rel="noopener noreferrer">Introduction to GitOps (LFS169)</a> | Linux Foundation |
+| <a href="https://www.credly.com/badges/efbdab09-5bf3-4bab-8167-e7af70dd5122" target="_blank" rel="noopener noreferrer">Introduction to Linux (LFS101)</a> | Linux Foundation |
 | AI-900: Azure AI Fundamentals | Microsoft / Fundação Bradesco |
 
 ### 🤖 Automação & RPA
@@ -132,20 +132,25 @@ Atuo principalmente em:
 ### 🔐 Segurança & Compliance
 | Certificação | Emissor |
 |:---:|:---:|
-| Introdução à Cibersegurança | Cisco Networking Academy |
-| Segurança em Linux | IBSEC |
-| Introduction to Critical Infrastructure Protection (ICIP) | OPSWAT Academy |
+| <a href="https://www.credly.com/badges/91aaad81-fe31-4cc5-9cd6-cc5df16c62cd" target="_blank" rel="noopener noreferrer">Introdução à Cibersegurança</a> | Cisco Networking Academy |
+| <a href="https://lp.ibsec.com.br/certificados/public/consulta/certs/index.php?id=1921a275f40f7525" target="_blank" rel="noopener noreferrer">Segurança em Linux</a> | IBSEC |
+| <a href="https://lp.ibsec.com.br/certificados/public/consulta/certs/index.php?id=0e9b2acc7d81f3e9" target="_blank" rel="noopener noreferrer">Segurança em Linux na Era da IA</a> | IBSEC |
+| <a href="https://certs.ibsec.com.br?cert_hash=e8506ec54528865c" target="_blank" rel="noopener noreferrer">Boas Práticas de Cibersegurança (Cybersecurity Awareness)</a> | IBSEC |
+| <a href="https://certs.ibsec.com.br?cert_hash=6ee85ec3dcaddf13" target="_blank" rel="noopener noreferrer">Boas Práticas de Cibersegurança (Cybersecurity Awareness)</a> | IBSEC |
+| <a href="https://certs.ibsec.com.br?cert_hash=d86e855c976e40bc" target="_blank" rel="noopener noreferrer">Analista de Cibersegurança (Governança)</a> | IBSEC |
+| <a href="https://www.credly.com/badges/6536fbe4-3b8e-4478-a062-8679d7deac0d" target="_blank" rel="noopener noreferrer">Introduction to Critical Infrastructure Protection (ICIP)</a> | OPSWAT Academy |
 
 ### 📦 Containers & Microsserviços
 | Certificação | Emissor |
 |:---:|:---:|
-| Introduction to Containers, Kubernetes, and OpenShift | IBM / Cognitive Class |
-| Docker Essentials: A Developer Introduction | IBM / Cognitive Class |
-| Beyond the Basics: Istio and IBM Cloud Kubernetes Service | IBM / Cognitive Class |
+| <a href="https://www.credly.com/badges/a708e51c-d141-4f1a-84a6-1c681a21bc98" target="_blank" rel="noopener noreferrer">Contêineres, Kubernetes e Istio na IBM Cloud</a> | IBM |
+| <a href="https://www.credly.com/badges/21a7a577-358b-41a3-b2df-f4125ba2c1af" target="_blank" rel="noopener noreferrer">Fundamentos do Docker: Uma Introdução para Desenvolvedores</a> | IBM |
+| <a href="https://www.credly.com/badges/201f7f77-d58e-490a-8794-530156c1feb3" target="_blank" rel="noopener noreferrer">Fundamentos da Criptografia Segura contra Computação Quântica</a> | IBM |
 
 ### 🧩 Metodologias & Processos
 | Certificação | Emissor |
 |:---:|:---:|
+| <a href="https://www.credly.com/badges/6badbd78-8fa9-431d-a341-e4aad3d25289" target="_blank" rel="noopener noreferrer">Professional Scrum Master™ I (PSM I)</a> | Scrum.org |
 | Scrum Fundamentals Certified (SFC) | SCRUMstudy |
 
 </div>
