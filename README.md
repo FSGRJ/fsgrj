@@ -108,10 +108,10 @@ Atuo principalmente em:
 ### ☁️ Cloud & Infraestrutura
 | Certificação | Emissor | Status |
 |:---:|:---:|:---:|
-| Oracle Cloud Infrastructure 2025 Foundations | Oracle | ✅ |
-| Oracle Data Platform 2025 Foundations | Oracle | ✅ |
-| Oracle Cloud Infrastructure 2025 AI Foundations | Oracle | ✅ |
-| AWS Well-Architected Foundations | Amazon Web Services | ✅ |
+| <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E6313FBF1E1C50C52627327A360F828DFB1CE0D9D4AA8E7D22CEC178F8477239" target="_blank" rel="noopener noreferrer">Oracle Cloud Infrastructure 2025 Foundations</a> | Oracle | ✅ |
+| <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FBD66F69ECA751BE7C062846CB7CDAD5810EDBFD490CE8FB034854349A20537E" target="_blank" rel="noopener noreferrer">Oracle Data Platform 2025 Foundations</a> | Oracle | ✅ |
+| <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=6233DDDFE05279D92D197C90884BF7A773E36AF3E68A922A0FC2E81FEBE9E331" target="_blank" rel="noopener noreferrer">Oracle Cloud Infrastructure 2025 AI Foundations</a> | Oracle | ✅ |
+| <a href="https://github.com/user-attachments/files/21708683/2afb8cb8-b3ae-4c6e-94a2-38bab6299758.pdf" target="_blank" rel="noopener noreferrer">AWS Well-Architected Foundations</a> | Amazon Web Services | ✅ |
 | AZ-900: Microsoft Azure Fundamentals | Microsoft | ✅ |
 
 ### ⚙️ DevOps & Engenharia
