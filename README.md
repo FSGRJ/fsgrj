@@ -5,8 +5,8 @@
 ### Analista de Sistemas | CI/CD · Azure DevOps · RPA · Automação de Processos
 
 <a href="https://www.linkedin.com/in/fabiano-gonçalves-93082128" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.credly.com/users/fabiano-goncalves.a074a51d" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
-<a href="https://certdirectory.io/profile/95788986-2977-456b-924b-5103268342b2" target="_blank"><img src="https://img.shields.io/badge/CertDirectory-1E293B?style=for-the-badge&logo=bookstack&logoColor=white" alt="CertDirectory"/></a>
+<a href="https://www.credly.com/users/fabiano-goncalves.a074a51d" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
+<a href="https://certdirectory.io/profile/95788986-2977-456b-924b-5103268342b2" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CertDirectory-1E293B?style=for-the-badge&logo=bookstack&logoColor=white" alt="CertDirectory"/></a>
 
 <img src="https://img.shields.io/badge/Rio%20de%20Janeiro%2C%20Brasil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 
@@ -67,9 +67,9 @@ Atualmente expandindo minha atuação em **Cloud Computing** e **DevOps**, com �
 
 <div align="center">
 
-<a href="https://github.com/FSGRJ" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=FSGRJ&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="GitHub Stats"/></a>
+<a href="https://github.com/FSGRJ" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=FSGRJ&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="GitHub Stats"/></a>
 &nbsp;
-<a href="https://github.com/FSGRJ?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FSGRJ&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages"/></a>
+<a href="https://github.com/FSGRJ?tab=repositories" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FSGRJ&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages"/></a>
 
 </div>
 
@@ -83,10 +83,10 @@ Atualmente expandindo minha atuação em **Cloud Computing** e **DevOps**, com �
 
 | Certificação | Emissor | Ano |
 |---|---|---|
-| <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E6313FBF1E1C50C52627327A360F828DFB1CE0D9D4AA8E7D22CEC178F8477239" target="_blank">Oracle Cloud Infrastructure 2025 Foundations</a> | Oracle | 2025 |
-| <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FBD66F69ECA751BE7C062846CB7CDAD5810EDBFD490CE8FB034854349A20537E" target="_blank">Oracle Data Platform 2025 Foundations</a> | Oracle | 2025 |
-| <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=6233DDDFE05279D92D197C90884BF7A773E36AF3E68A922A0FC2E81FEBE9E331" target="_blank">Oracle Cloud Infrastructure 2025 AI Foundations</a> | Oracle | 2025 |
-| <a href="https://github.com/user-attachments/files/21708683/2afb8cb8-b3ae-4c6e-94a2-38bab6299758.pdf" target="_blank">AWS Well-Architected Foundations</a> | Amazon Web Services | 2025 |
+| <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E6313FBF1E1C50C52627327A360F828DFB1CE0D9D4AA8E7D22CEC178F8477239" target="_blank" rel="noopener noreferrer">Oracle Cloud Infrastructure 2025 Foundations</a> | Oracle | 2025 |
+| <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FBD66F69ECA751BE7C062846CB7CDAD5810EDBFD490CE8FB034854349A20537E" target="_blank" rel="noopener noreferrer">Oracle Data Platform 2025 Foundations</a> | Oracle | 2025 |
+| <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=6233DDDFE05279D92D197C90884BF7A773E36AF3E68A922A0FC2E81FEBE9E331" target="_blank" rel="noopener noreferrer">Oracle Cloud Infrastructure 2025 AI Foundations</a> | Oracle | 2025 |
+| <a href="https://github.com/user-attachments/files/21708683/2afb8cb8-b3ae-4c6e-94a2-38bab6299758.pdf" target="_blank" rel="noopener noreferrer">AWS Well-Architected Foundations</a> | Amazon Web Services | 2025 |
 | AZ-900: Microsoft Azure Fundamentals | Microsoft | — |
 
 ### ⚙️ DevOps & Engenharia
@@ -131,7 +131,7 @@ Atualmente expandindo minha atuação em **Cloud Computing** e **DevOps**, com �
 </div>
 
 > 🔗 Veja todos os badges e certificações verificáveis em:
-> <a href="https://www.credly.com/users/fabiano-goncalves.a074a51d" target="_blank"><strong>Credly</strong></a> · <a href="https://www.certdirectory.io/profile/95788986-2977-456b-924b-5103268342b2" target="_blank"><strong>CertDirectory</strong></a>
+> <a href="https://www.credly.com/users/fabiano-goncalves.a074a51d" target="_blank" rel="noopener noreferrer"><strong>Credly</strong></a> · <a href="https://www.certdirectory.io/profile/95788986-2977-456b-924b-5103268342b2" target="_blank" rel="noopener noreferrer"><strong>CertDirectory</strong></a>
 
 ---
 
