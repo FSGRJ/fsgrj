@@ -40,6 +40,8 @@
 Analista de Sistemas com **mais de 10 anos** de experiência em desenvolvimento, automação, integração de sistemas e transformação digital. Especializado em entregar soluções que aumentam eficiência, reduzem custos operacionais e acelerando a adoção de tecnologias modernas.
 
 Atuo principalmente em:
+- **SCRUM** - Product Backlog / Sprint / Daily Scrum /  Sprint Review
+- **Analista de Configurações** - Foca no produto e nos itens técnicos (arquivos, servidores, versões, dependências)
 - **Pipelines de CI/CD** - Automação completa de entrega
 - **Azure DevOps** - Orquestração e governança
 - **Infraestrutura como Código** - Terraform, Ansible, automação
