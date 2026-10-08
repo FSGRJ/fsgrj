@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Fabiano Gonçalves
 
-### Analista de Sistemas | DevOps Engineer | CI/CD Specialist | Azure Cloud Architect
+### Analista de Configurações | CI/CD · Azure DevOps | RPA · Automação de Processos | +10 anos em Fintechs e Corporativos
 
 <a href="https://www.linkedin.com/in/fabiano-gonçalves-93082128" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
